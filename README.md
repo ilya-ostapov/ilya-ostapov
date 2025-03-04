@@ -1,6 +1,6 @@
 ## Привет, меня зовут Илья! 👋
-<a href="https://t.me/ваш_ник" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_logo.svg" alt="Telegram" style="width: 40px; height: 40px;"/>
+<a href="https://t.me/https://t.me/ostapovilya" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" style="width: 40px; height: 40px;"/>
 </a>
 
 Аналитик данных
