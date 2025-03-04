@@ -1,5 +1,7 @@
 ## Привет, меня зовут Илья! 👋
-<a href="https://t.me/ваш_ник" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #0088cc; border-radius: 5px; text-decoration: none;">Напишите мне в Telegram</a>
+<a href="https://t.me/ваш_ник" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_logo.svg" alt="Telegram" style="width: 40px; height: 40px;"/>
+</a>
 
 Аналитик данных
 <!--
