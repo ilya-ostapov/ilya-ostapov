@@ -3,13 +3,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" style="width: 40px; height: 40px;"/>
 </a>
 
-Обо мне:
+### Обо мне:
  * Аналитик данных, BI-аналитик
  * Кандидат физ-мат наук, исследователь.
 
 
 
-Проектная работа
+## Проектная работа:
 
 | Название | Цели | Стек |
 |----------|------|------|
@@ -19,7 +19,8 @@
 | [Проект 4. Производство бумаги в России](https://github.com/ilya-ostapov/Portfolio/tree/main/Paper_Russia) | Исследование тенденций производства бумаги в РФ по регионам 2007-2011 гг. |Python, Pandas, Matplotlib, numpy, seaborn <br> Регрессионный анализ|
 
 
-# Инструменты
+## Инструменты
+(иконки кликабельны)
 
 <div style="display: flex; align-items: center;">   
     <a href="https://www.python.org/" target="_blank">
