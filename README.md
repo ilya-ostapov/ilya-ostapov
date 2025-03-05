@@ -14,8 +14,8 @@
 
 
 # Инструменты
-<div style="display: flex; align-items: center;">
-    
+
+<div style="display: flex; align-items: center;">   
     <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="50" height="50" />
     <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="50" height="50" />
     <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="50" height="50" />
