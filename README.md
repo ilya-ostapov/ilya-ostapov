@@ -3,7 +3,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" style="width: 40px; height: 40px;"/>
 </a>
 
-Аналитик данных
+Обо мне:
+ * Аналитик данных, BI-аналитик
+ * Кандидат физ-мат наук, исследователь.
+
+
+
+Проектная работа
 
 | Название | Цели | Стек |
 |----------|------|------|
