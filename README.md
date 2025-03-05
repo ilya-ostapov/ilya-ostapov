@@ -16,8 +16,12 @@
 # Инструменты
 
 <div style="display: flex; align-items: center;">   
-    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="50" height="50" />
-    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="50" height="50" />
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="50" height="50" />
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="50" height="50" />
+    </a>
     <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="50" height="50" />
     <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="50" height="50" />
     <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="50" height="50" />
