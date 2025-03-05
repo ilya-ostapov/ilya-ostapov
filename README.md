@@ -15,16 +15,16 @@
 
 # Инструменты
 
-![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png) 
-![Pandas](https://pandas.pydata.org/static/img/pandas_mark.svg) 
-![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) 
-![SciPy](https://scipy.org/images/logo.svg) 
-![Jupyter](https://img.icons8.com/color/48/000000/jupyter.png) 
-![Google Colab](https://img.icons8.com/color/48/000000/google-colab.png) 
-![SQL](https://img.icons8.com/color/48/000000/sql.png) 
-![Redash](https://img.icons8.com/color/48/000000/redash.png) 
-![Yandex Datalens](https://img.icons8.com/color/48/000000/yandex-disk.png) 
-![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) 
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="50" height="50" />
+<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="50" height="50" />
+<img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" width="50" height="50" />
+<img src="https://img.icons8.com/color/48/000000/scipy.png" alt="SciPy" width="50" height="50" />
+<img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter" width="50" height="50" />
+<img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" width="50" height="50" />
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="50" height="50" />
+<img src="https://img.icons8.com/color/48/000000/redash.png" alt="Redash" width="50" height="50" />
+<img src="https://img.icons8.com/color/48/000000/yandex-disk.png" alt="Yandex Datalens" width="50" height="50" />
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50" />
 
 
 
