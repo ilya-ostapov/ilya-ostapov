@@ -28,6 +28,9 @@
     <a href="https://www.scipy.org/" target="_blank">
         <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="50" height="50" />
     </a>
+    <a href="https://www.statsmodels.org/stable/index.html" target="_blank">
+        <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="SciPy" width="50" height="50" />
+    </a>
     <a href="https://jupyter.org/" target="_blank">
         <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="50" height="50" />
     </a>
