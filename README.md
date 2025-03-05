@@ -14,18 +14,19 @@
 
 
 # Инструменты
-
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="50" height="50" />
-<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="50" height="50" />
-<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="50" height="50" />
-<img src="https://scipy.org/images/logo.svg" alt="SciPy" width="50" height="50" />
-<img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="50" height="50" />
-<img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" width="50" height="50" />
-<img src="https://static-00.iconduck.com/assets.00/postgresql-plain-wordmark-icon-2048x2042-up54u54l.png" alt="SQL" width="50" height="50" />
-<img src="https://redash.io/assets/images/elements/redash-logo.svg" alt="Redash" width="50" height="50" />
-<img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png" alt="Yandex Datalens" width="50" height="50" />
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50" />
-
+<div style="display: flex; align-items: center;">
+    
+    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="50" height="50" />
+    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="50" height="50" />
+    <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="50" height="50" />
+    <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="50" height="50" />
+    <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="50" height="50" />
+    <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" width="50" height="50" />
+    <img src="https://static-00.iconduck.com/assets.00/postgresql-plain-wordmark-icon-2048x2042-up54u54l.png" alt="SQL" width="50" height="50" />
+    <img src="https://redash.io/assets/images/elements/redash-logo.svg" alt="Redash" width="50" height="50" />
+    <img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png" alt="Yandex Datalens" width="50" height="50" />
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50" />
+</div>
 
 
 
