@@ -69,7 +69,7 @@
 |SQL симулятор|karpov.courses|[rus]()/[eng]()|
 |||[rus](https://drive.google.com/file/d/1qRb5lgXBjRhkzOQjKC5w9PHw5pLWFBbw/view?usp=drive_link)/[eng](https://drive.google.com/file/d/12BbCKkz0RNna-_0OTaba-ttcLm0KAhao/view?usp=drive_link)|
 |Анализ данных с Pandas|Stepik|[rus](https://drive.google.com/file/d/1WvL53jC37VfgZ36R7DASJVClzVyD_beZ/view?usp=drive_link)/[eng](https://drive.google.com/file/d/19Kre7R_8N5XGHxA_SQLGhbChijF4LcX9/view?usp=drive_link)|
-|Програмирование на Python|Stepik|[rus](https://drive.google.com/file/d/1_h7nnl6-d3fjvLltCHVduHjUdqAOGGUK/view?usp=drive_link)/[eng](https://drive.google.com/file/d/1B1-kaRnOg49eG24VKMHCa8qULPQhdFkK/view?usp=drive_link)|
+|Программирование на Python|Stepik|[rus](https://drive.google.com/file/d/1_h7nnl6-d3fjvLltCHVduHjUdqAOGGUK/view?usp=drive_link)/[eng](https://drive.google.com/file/d/1B1-kaRnOg49eG24VKMHCa8qULPQhdFkK/view?usp=drive_link)|
 |Python: Основы и применение|Stepik|[rus](https://drive.google.com/file/d/1_Y3OVJdHkcLGS7AtDNWAnMkl2D9Zafwm/view?usp=drive_link)/[eng](https://drive.google.com/file/d/15R7stSk829DWTIsYwMTZiUbys-MW3rcQ/view?usp=drive_link)|
 |Основы статистики 1|Stepik|[rus](https://drive.google.com/file/d/1qFCbnJTe81giOW3hkKbWnvFlQi5guqzE/view?usp=drive_link)/[eng](https://drive.google.com/file/d/1h86cG3YNM7NswNKpxV5NOmQKlEZKyk9m/view?usp=drive_link)|
 |Основы статистики 2|Stepik|[rus](https://drive.google.com/file/d/1WJgSvayVwwzkPOoXf8SjjY1WP4-Mxlxu/view?usp=drive_link)/[eng](https://drive.google.com/file/d/11T-9yFffHWUJYaHTvwEj0mYhLKV_rCgw/view?usp=drive_link)|
