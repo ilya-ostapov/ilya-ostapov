@@ -66,7 +66,7 @@
 |Название курса|Платформа|Сертфикат|
 |----------|------|------|
 |Аналитик Данных|karpov.courses|</a>
-    <a href="https://drive.google.com/drive/folders/1gdf1e-bgX23_NnxuuFWCEAXNKtFZlpli" target="_blank"> </a>|
+    [eng](https://drive.google.com/drive/folders/1gdf1e-bgX23_NnxuuFWCEAXNKtFZlpli)
 
 
 
