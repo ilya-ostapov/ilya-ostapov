@@ -65,7 +65,7 @@
 ### Сертификаты
 |Название курса|Платформа|Сертфикат|
 |----------|------|------|
-|Аналитик Данных|karpov.courses|[eng](https://drive.google.com/file/d/1EByoPRIdKlVCUy-EUyASPz077InbS6I6/view?usp=drive_link)|
+|Аналитик Данных|karpov.courses|[rus](https://drive.google.com/file/d/1oOmJZElNW_cvdKgzBB8KRHUnxg0com-B/view?usp=drive_link)/[eng](https://drive.google.com/file/d/1EByoPRIdKlVCUy-EUyASPz077InbS6I6/view?usp=drive_link)|
 
 
 
