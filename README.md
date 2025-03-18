@@ -34,14 +34,11 @@
     <a href="https://pandas.pydata.org/" target="_blank">
         <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
     </a>
-    <a href="https://matplotlib.org/" target="_blank">
-        <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Matplotlib" width="150" height="50" />
-    </a>
+     <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+    </a>    
     <a href="https://www.scipy.org/" target="_blank">
         <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt="SciPy" />
-    </a>
-    <a href="https://www.statsmodels.org/stable/index.html" target="_blank">
-        <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="SciPy" width="50" height="50" />
     </a>
     <a href="https://jupyter.org/" target="_blank">
         <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
@@ -52,15 +49,18 @@
     <a href="https://www.sql.org/" target="_blank">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
     </a>
+     <a href="https://matplotlib.org/" target="_blank">
+        <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Matplotlib" width="150" height="50" />
+    </a>
     <a href="https://redash.io/" target="_blank">
         <img src="https://discuss.redash.io/images/logo_redash.png" alt="Redash" width="100" height="40" />
     </a>
     <a href="https://datalens.yandex/" target="_blank">
         <img src="https://datalens.tech/docs/en/_assets/icon/logo.svg" alt="Yandex Datalens" />
     </a>
-    <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-    </a>    
+    <a href="https://www.statsmodels.org/stable/index.html" target="_blank">
+        <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="SciPy" width="50" height="50" />
+    </a>
 </div>
 
 
