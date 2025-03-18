@@ -38,16 +38,16 @@
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
     </a>
      <a href="https://matplotlib.org/" target="_blank">
-        <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Matplotlib" width="100" height="40" />
+        <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Matplotlib" width="80" height="20" />
     </a>
     <a href="https://redash.io/" target="_blank">
-        <img src="https://discuss.redash.io/images/logo_redash.png" alt="Redash" width="100" height="40" />
+        <img src="https://discuss.redash.io/images/logo_redash.png" alt="Redash" width="80" height="20" />
     </a>
     <a href="https://datalens.yandex/" target="_blank">
-        <img src="https://datalens.tech/docs/en/_assets/icon/logo.svg" alt="Yandex Datalens" width="100" height="40" />
+        <img src="https://datalens.tech/docs/en/_assets/icon/logo.svg" alt="Yandex Datalens" width="80" height="20" />
     </a>
     <a href="https://www.statsmodels.org/stable/index.html" target="_blank">
-        <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="SciPy" width="100" height="40" />
+        <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="SciPy" width="80" height="20" />
     </a>
 </div>
 
@@ -64,7 +64,9 @@
 
 ### Сертификаты
 |Название курса|Платформа|Сертфикат|
-
+|----------|------|------|
+|Аналитик Данных|karpov.courses|</a>
+    <a href="https://drive.google.com/drive/folders/1gdf1e-bgX23_NnxuuFWCEAXNKtFZlpli" target="_blank"> </a>|
 
 
 
