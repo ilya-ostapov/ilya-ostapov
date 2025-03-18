@@ -6,6 +6,7 @@
 ### Обо мне:
  * Аналитик данных, BI-аналитик
  * Кандидат физ-мат наук, исследователь. <span style="color: gray;"></span>
+ 
  8 лет работал в науке, исследователь-экспериментатор. Область научных интересов - сопряженые элеткроактивные полимеры.
 Сменил профессию на аналитика данных. Имею компетенции в А/Б тестировании, регресиионном анализе, написании "академического" когда на python и составлении запросов на SQL.
 Планирую погрузиться в пердсказательные модели.
@@ -50,16 +51,16 @@
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
     </a>
      <a href="https://matplotlib.org/" target="_blank">
-        <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Matplotlib" width="150" height="50" />
+        <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Matplotlib" />
     </a>
     <a href="https://redash.io/" target="_blank">
-        <img src="https://discuss.redash.io/images/logo_redash.png" alt="Redash" width="100" height="40" />
+        <img src="https://discuss.redash.io/images/logo_redash.png" alt="Redash" />
     </a>
     <a href="https://datalens.yandex/" target="_blank">
         <img src="https://datalens.tech/docs/en/_assets/icon/logo.svg" alt="Yandex Datalens" />
     </a>
     <a href="https://www.statsmodels.org/stable/index.html" target="_blank">
-        <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="SciPy" width="50" height="50" />
+        <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="SciPy" />
     </a>
 </div>
 
