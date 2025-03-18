@@ -6,6 +6,10 @@
 ### Обо мне:
  * Аналитик данных, BI-аналитик
  * Кандидат физ-мат наук, исследователь. <span style="color: gray;"></span>
+ 8 лет работал в науке, исследователь-экспериментатор. Область научных интересов - сопряженые элеткроактивные полимеры.
+Сменил профессию на аналитика данных. Имею компетенции в А/Б тестировании, регресиионном анализе, написании "академического" когда на python и составлении запросов на SQL.
+Планирую погрузиться в пердсказательные модели.
+Меня вдохновляют докладчики-специалисты на конференциях от мира DA, которые открывают для себя новое в мат. анализе, и очень этому радуются. Хочу радовать этих людей еще больше.  
  
 
 
@@ -25,7 +29,7 @@
 
 <div style="display: flex; align-items: center;">   
     <a href="https://www.python.org/" target="_blank">
-        <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="50" height="50" />
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" width="50" height="50" />
     </a>
     <a href="https://pandas.pydata.org/" target="_blank">
         <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="50" height="50" />
