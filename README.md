@@ -29,22 +29,22 @@
 
 <div style="display: flex; align-items: center;">   
     <a href="https://www.python.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" width="50" height="50" />
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" width="100" height="50" />
     </a>
     <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="50" height="50" />
+        <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" width="100" height="50" />
     </a>
     <a href="https://matplotlib.org/" target="_blank">
-        <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="50" height="50" />
+        <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Matplotlib" width="150" height="50" />
     </a>
     <a href="https://www.scipy.org/" target="_blank">
-        <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="50" height="50" />
+        <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt="SciPy" width="50" height="50" />
     </a>
     <a href="https://www.statsmodels.org/stable/index.html" target="_blank">
         <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="SciPy" width="50" height="50" />
     </a>
     <a href="https://jupyter.org/" target="_blank">
-        <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="50" height="50" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
     </a>
     <a href="https://colab.research.google.com/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" width="50" height="50" />
