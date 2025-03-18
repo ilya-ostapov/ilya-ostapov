@@ -10,23 +10,10 @@
  8 лет работал в науке, исследователь-экспериментатор. Область научных интересов - сопряженые элеткроактивные полимеры.
 Сменил профессию на аналитика данных. Имею компетенции в А/Б тестировании, регресиионном анализе, написании "академического" когда на python и составлении запросов на SQL.
 Планирую погрузиться в пердсказательные модели.
-Меня вдохновляют докладчики-специалисты на конференциях от мира DA, которые открывают для себя новое в мат. анализе, и очень этому радуются. Хочу радовать этих людей еще больше.  
+Меня вдохновляют докладчики-специалисты на конференциях от мира DA/DS, которые открывают для себя новое в мат. анализе, и очень этому радуются. Хочу радовать этих людей еще больше.  
  
 
-
-
-## Проекты:
-
-| Название | Цели | Стек |
-|----------|------|------|
-| [Проект 1. Бизнес-процесс](https://github.com/ilya-ostapov/Portfolio/tree/main/Buisness_process_conv) | Выявление возможностей повышения конверсии из пробного урока в оплату. | Python, Pandas, statsmodels, SciPy, numpy, YandexDatalens <br> А/Б тестирование, Хи-квадрат, ANOVA|
-| [Проект 2. e-commerce](https://github.com/ilya-ostapov/Portfolio/tree/main/e-commerce) | Описание поведения клиентов и доставки, RFM-Анализ, когортный анализ | Python, Pandas, Matplotlib, numpy, SciPy, seaborn|
-| [Проект 3. Образовательная платформа](https://github.com/ilya-ostapov/Portfolio/tree/main/education_platform) | Проверка эффективности новой страницы оплаты и описание поведения студентов образовательной онлайн платформы |Python, SQL, Pandas, Matplotlib, numpy, SciPy, seaborn <br> А/Б тестирование, Хи-квадрат|
-| [Проект 4. Производство бумаги в России](https://github.com/ilya-ostapov/Portfolio/tree/main/Paper_Russia) | Исследование тенденций производства бумаги в РФ по регионам 2007-2011 гг. |Python, Pandas, Matplotlib, numpy, seaborn <br> Регрессионный анализ|
-
-
-## Инструменты:
-(иконки кликабельны)
+## Инструментарий:
 
 <div style="display: flex; align-items: center;">   
     <a href="https://www.python.org/" target="_blank">
@@ -63,6 +50,19 @@
         <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="SciPy" width="100" height="40" />
     </a>
 </div>
+
+
+
+## Проекты:
+
+| Название | Цели | Стек |
+|----------|------|------|
+| [Проект 1. Бизнес-процесс](https://github.com/ilya-ostapov/Portfolio/tree/main/Buisness_process_conv) | Выявление возможностей повышения конверсии из пробного урока в оплату. | Python, Pandas, statsmodels, SciPy, numpy, YandexDatalens <br> А/Б тестирование, Хи-квадрат, ANOVA|
+| [Проект 2. e-commerce](https://github.com/ilya-ostapov/Portfolio/tree/main/e-commerce) | Описание поведения клиентов и доставки, RFM-Анализ, когортный анализ | Python, Pandas, Matplotlib, numpy, SciPy, seaborn|
+| [Проект 3. Образовательная платформа](https://github.com/ilya-ostapov/Portfolio/tree/main/education_platform) | Проверка эффективности новой страницы оплаты и описание поведения студентов образовательной онлайн платформы |Python, SQL, Pandas, Matplotlib, numpy, SciPy, seaborn <br> А/Б тестирование, Хи-квадрат|
+| [Проект 4. Производство бумаги в России](https://github.com/ilya-ostapov/Portfolio/tree/main/Paper_Russia) | Исследование тенденций производства бумаги в РФ по регионам 2007-2011 гг. |Python, Pandas, Matplotlib, numpy, seaborn <br> Регрессионный анализ|
+
+
 
 
 
