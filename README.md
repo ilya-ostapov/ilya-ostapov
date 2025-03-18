@@ -56,7 +56,7 @@
         <img src="https://discuss.redash.io/images/logo_redash.png" alt="Redash" width="100" height="40" />
     </a>
     <a href="https://datalens.yandex/" target="_blank">
-        <img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png" alt="Yandex Datalens" width="50" height="50" />
+        <img src="https://datalens.tech/docs/en/_assets/icon/logo.svg" alt="Yandex Datalens" />
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
