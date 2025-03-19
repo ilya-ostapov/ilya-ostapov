@@ -47,7 +47,7 @@
         <img src="https://datalens.tech/docs/en/_assets/icon/logo.svg" alt="Yandex Datalens" width="80" height="20" />
     </a>
     <a href="https://www.statsmodels.org/stable/index.html" target="_blank">
-        <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="SciPy" width="200" height="20" />
+        <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="SciPy" width="80" height="20" />
     </a>
 </div>
 
