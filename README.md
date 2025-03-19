@@ -64,6 +64,7 @@
 
 ### Сертификаты
 <details>
+
 |Название курса|Платформа|Сертфикат|
 |----------|------|------|
 |Аналитик Данных|karpov.courses|[rus](https://drive.google.com/file/d/1oOmJZElNW_cvdKgzBB8KRHUnxg0com-B/view?usp=drive_link)/[eng](https://drive.google.com/file/d/1EByoPRIdKlVCUy-EUyASPz077InbS6I6/view?usp=drive_link)|
@@ -73,6 +74,7 @@
 |Python: Основы и применение|Stepik|[rus](https://drive.google.com/file/d/1_Y3OVJdHkcLGS7AtDNWAnMkl2D9Zafwm/view?usp=drive_link)/[eng](https://drive.google.com/file/d/15R7stSk829DWTIsYwMTZiUbys-MW3rcQ/view?usp=drive_link)|
 |Основы статистики 1|Stepik|[rus](https://drive.google.com/file/d/1qFCbnJTe81giOW3hkKbWnvFlQi5guqzE/view?usp=drive_link)/[eng](https://drive.google.com/file/d/1h86cG3YNM7NswNKpxV5NOmQKlEZKyk9m/view?usp=drive_link)|
 |Основы статистики 2|Stepik|[rus](https://drive.google.com/file/d/1WJgSvayVwwzkPOoXf8SjjY1WP4-Mxlxu/view?usp=drive_link)/[eng](https://drive.google.com/file/d/11T-9yFffHWUJYaHTvwEj0mYhLKV_rCgw/view?usp=drive_link)|
+
 </details>
 
 
